@@ -12,6 +12,8 @@ About me
 
 1
 
+![Prof Flávio GitHub Stats](https://github-readme-stats.vercel.app/api?username=flaviojoliveira&show_icons=true)
+
 
 2
 
